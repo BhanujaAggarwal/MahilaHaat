@@ -1,7 +1,9 @@
 # MahilaHaat
 Find your dream jobs on महिलाHAAT
 Command to run the repository
-use python3 manage.py runserver
+
+Command to run Server
+$ python3 manage.py runserver
 
 Commands to run the UseSpeech SubModule from port 8181
 
